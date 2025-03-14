@@ -10,6 +10,7 @@
     $gustavo = 17;
     $n1 = 5;
     $n2 = 5;
+    $celia = "fofa";
     $n3 = $n1 + $n2;
     $sam = " teste aqui sobre o funcionamento ";
     echo$gustavo . $n3 . $sam . " //// ";
